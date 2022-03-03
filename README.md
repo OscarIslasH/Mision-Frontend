@@ -7,7 +7,7 @@ Practicas de Introduccion a Frontend
 
 Buyer persona Cliente "Jose": https://github.com/OscarIslasH/Mision-Frontend/blob/main/Jose.pdf
     
-3.- Publico objetivo: https://github.com/OscarIslasH/Mision-Frontend/blob/main/Target%20Audience%20Template%20(2).pdf
+3.- Publico objetivo: https://github.com/OscarIslasH/Mision-Frontend/blob/main/Publico%20Objetivopdf.pdf
 
 4.- Wireframe: https://miro.com/app/board/uXjVOJwm_Ic=/?invite_link_id=827371144552
 
